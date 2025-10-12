@@ -3,6 +3,7 @@ Collection of information for movies, tv-shows, actors. Includes youtube trailer
 This api provides complete and updated data for over 9 million titles ( movies, series and episodes) and 11 million actors / crew and cast members. 
 
 ## Version
+running on version 1
 Recent titles are updated weekley - Ratings / episodes light are updated daily
 
 ## Available Endpoints
