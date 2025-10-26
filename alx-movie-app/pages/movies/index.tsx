@@ -33,7 +33,7 @@ const Movies: React.FC<MProps> = () => {
 
     if (!response.ok) {
       setLoading(false)
-      throw new Error("Something went wrong")
+      throw new Error('Something went wrong')
     }
 
     const data = await response.json()
